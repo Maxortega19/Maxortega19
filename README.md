@@ -86,7 +86,7 @@
 <br/>  
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxortega19&show_icons=true&locale=es&layout=compact&hide_border=true&title_color=667EEA&icon_color=764BA2&hide_title=true" alt="maxortega19" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxortega19&show_icons=true&locale=es&layout=compact&hide_border=true&background=DDDDDD00&title_color=667EEA&icon_color=764BA2&hide_title=true" alt="maxortega19" />
 </div>
 
 <br/>  
