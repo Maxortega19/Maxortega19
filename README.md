@@ -86,7 +86,7 @@
 <br/>  
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxortega19&show_icons=true&locale=es&layout=compact&hide_border=true&background=DDDDDD00&title_color=667EEA&icon_color=764BA2&hide_title=true" alt="maxortega19" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxortega19&show_icons=true&locale=es&layout=compact&hide_border=true&bg_color=00000000&title_color=667EEA&text_color=FFFFFF&icon_color=764BA2&hide_title=true" alt="maxortega19" />
 </div>
 
 <br/>  
@@ -117,7 +117,7 @@
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxortega19&show_icons=true&title_color=667EEA&text_color&icon_color=764BA2&hide_border=true&locale=es" alt="maxortega19" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxortega19&show_icons=true&bg_color=00000000&title_color=764BA2&text_color=667EEA&icon_color=764BA2&&hide_title=true&hide_border=true&locale=es" alt="maxortega19" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=maxortega19&hide_border=true&locale=es&background=DDDDDD00&ring=764BA2&currStreakNum=667EEA&sideNums=667EEA&currStreakLabel=667EEA&sideLabels=667EEA&fire=667EEA&dates=764BA2&stroke=764BA2" alt="maxortega19" />
 
